@@ -9,9 +9,9 @@ lang: de
 # Datenschutzerklärung — HorseShowPrep
 
 Verantwortlich: Dr. Lars Bruckschen, Heidgesweg 29, 53913 Swisttal, Germany
-Kontakt: horseshowprep@bruckschen.eu
+Kontakt: applabs@bruckschen.eu
 
-Stand: 2026-08-12
+Stand: 2026-08-16
 
 ## Kurz gesagt
 
@@ -64,6 +64,28 @@ Einzelne Einträge löschst du in der App. Alle von der App angelegten Kalendert
 entfernst du in den Einstellungen unter „Alle Kalendereinträge entfernen" — das löscht den
 Kalender „HorseShowPrep" mitsamt Inhalt und lässt deine übrigen Kalender unberührt.
 Löschst du die App, werden alle lokalen Daten mit entfernt.
+
+## Deine Rechte
+
+Nach der DSGVO stehen dir Auskunft (Art. 15), Berichtigung (Art. 16), Löschung (Art. 17),
+Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch
+(Art. 21) zu.
+
+Weil deine Daten ausschließlich auf deinem Gerät liegen und wir als Anbieter **keinen
+Zugriff darauf haben**, übst du diese Rechte unmittelbar in der App aus: Du siehst alle
+gespeicherten Daten dort, kannst sie ändern und löschen (siehe „Deine Daten löschen").
+Eine Herausgabe durch uns ist weder möglich noch nötig — wir haben nichts, was wir
+herausgeben könnten.
+
+Schreibst du uns an `applabs@bruckschen.eu`, verarbeiten wir die Angaben deiner Nachricht,
+um sie zu beantworten (Art. 6 Abs. 1 lit. f DSGVO, berechtigtes Interesse an der
+Beantwortung von Anfragen). Für diese Korrespondenz gelten die Rechte oben uneingeschränkt.
+
+Für die Adressabfrage bei Apple Karten ist Apple verantwortlich; Rechte daraus machst du
+gegenüber Apple geltend.
+
+Unabhängig davon steht dir ein Beschwerderecht bei der für dich zuständigen
+Datenschutz-Aufsichtsbehörde zu (Art. 77 DSGVO).
 
 ## TestFlight (nur während der Testphase)
 
